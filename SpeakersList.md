@@ -6,8 +6,8 @@ Breier|Robert|Bratislava Com. U.|7|Researcher|Simulations|-|Comp. farm organizat
 Ješkovský  |Miroslav|Bratislava Com. U.|7|Researcher|Radiopurity|-|-|-
 Kaizer|Jakub|Bratislava Com. U.|7|Asist. Professor|Radiopurity|-|-|-
 Palušová|Veronika|Bratislava Com. U.|1|PhD student|Analysis|-|Fellowship application|-
-Janicskó-Csáthy|József|IKZ|7+1|staff|crystal growth|-|-|" 2017.12 Berkeley GeWS|"
-Gusev|Konstantin|JINR|7+1|Senior researcher, PI|Detectors|-|-|"2017.08 / ICNFP 2017|"
+Janicskó-Csáthy|József|IKZ|7+1|staff|crystal growth|-|-| 2017.12 Berkeley GeWS
+Gusev|Konstantin|JINR|7+1|Senior researcher, PI|Detectors|-|-|2017.08 / ICNFP 2017
 Lubashevskiy|Alexey|JINR|7|Senior researcher|Analysis, Ar mitigation|-|-|-
 Zinatulina|Daniya|JINR|7|Researcher|Muon veto, detectors|-|-|-
 Rumyantseva|Nadezda|JINR|7|Researcher|Analysis, detectors|-|-|-
@@ -28,13 +28,13 @@ Hayward|Connor|Lancaster U.|5|PhD Student|PEN, light simulation|-|-|-
 Fox|Harald|Lancaster U.|7|senior lecturer |Detectors, simulation, machine learning|-|-|-
 Kormos |Laura|Lancaster U.|7|senior lecturer |neutrino analysis|-|-|-
 Salamida|Francesco|L'Aquila U. &INFN|1|Tenure track|Detectors,electronics,analysis|-|Professor application|-
-D'Andrea|Valerio|L'Aquila U. &INFN| 1+1|Post-Doc|Detectors,electronics,analysis|-|Fellowship application|"2019.03 Moriond|"
+D'Andrea|Valerio|L'Aquila U. &INFN| 1+1|Post-Doc|Detectors,electronics,analysis|-|Fellowship application|2019.03 Moriond
 Elliott|Steve|LANL|7|senior scientist|-|-|-|-
 Massarczyk|Ralph|LANL|7+1|Scientist|-|-|-|-
-Rielage|Keith Richard|LANL|7+1|senior scientist|group leader|-|-|"2018.06 Nu poster, 2018.10 DNP inv.|"
-Chu|Pinghan|LANL|5|postdoc|-|-|-|"2018.11 DNP contr|"
-Myslik|Jordan|LBNL|1+1|Postdoc|Electronics, analysis|-|Job searching|"2018.05 CIPANP|"
-Willers|Michael|LBNL|1+1|Postdoc|Electronics|-|Job searching soon fellowship|"2019.02 Vienna|"
+Rielage|Keith Richard|LANL|7+1|senior scientist|group leader|-|-|2018.06 Nu poster, 2018.10 DNP inv.
+Chu|Pinghan|LANL|5|postdoc|-|-|-|2018.11 DNP contr
+Myslik|Jordan|LBNL|1+1|Postdoc|Electronics, analysis|-|Job searching|2018.05 CIPANP
+Willers|Michael|LBNL|1+1|Postdoc|Electronics|-|Job searching soon fellowship|2019.02 Vienna
 Barton|Paul|LBNL|7|Staff|Detector, Electronics|-|-|-
 Harvey|Zach|LBNL|5|PhD Student|Simulation, Detector|-|-|-
 Lehnert|Bjoern|LBNL|5|Postdoc|Electronics, analysis|-|-|-
@@ -44,12 +44,12 @@ Abgrall|Nicolas|LBNL|7|Staff|Electronics|-|-|-
 Vetter|Kai|LBNL|7|Staff/Professor|Detector|-|-|-
 Orebi Gann|Gabriel|LBNL|7|Staff/Assistant Professor|VUV photon|-|-|-
 Chan|Yuen-dat|LBNL|10|Retired|Detector, Electronics|-|-|-
-Poon|Alan|LBNL|7+1|Staff/Deputy Director|-|-|-|"2017.09 Erice|"
+Poon|Alan|LBNL|7+1|Staff/Deputy Director|-|-|-|2017.09 Erice
 Balata|Marco|LNGS|7|Engineer|water purification, clean room technology, chemical plants|-|-|-
 Di Marco|Natalia|LNGS|6|Researcher|simulation, data analysis|-|Grant renewal|-
 Junker|Matthias|LNGS|7|Researcher|control systems, germanium detectors, vacuum technology|-|-|-
 Laubenstein|Matthias|LNGS|7|Researcher|germanium detectors, gamma-ray spectrometry, simulation, data analysis, cryogenics|-|-|-
-Boston|Andrew|Liverpool U.|7+1|Professor|nuclear physics|-|-|"2019.05 MEDEX|"
+Boston|Andrew|Liverpool U.|7+1|Professor|nuclear physics|-|-|2019.05 MEDEX
 Boston|Helen|Liverpool U.|7|Professor|detectors, characterisation, PSA|-|-|-
 Harkness-Brennan|Laura|Liverpool U.|7|Professor|detectors, characterisation, PSA|-|-|-
 Judson|Dan|Liverpool U.|7|staff|detectors, characterisation, PSA|-|-|-
@@ -57,13 +57,13 @@ Kornoukhov|Vasily|MEPhI|7|staff|enriched Ge|No US based meetings|-|-
 Bolozdynya|Alexander|MEPhI|7|Professor|-|-|-|-
 Riboldi|Stefano|Milano U. & INFN|6|senior researcher|Low-noise front-end electr.|-|Grant renewal|-
 Pullia|Alberto|Milano U. & INFN|7|professor|Low-noise front-end electr.|-|-|-
-Schwingenheuer|Bernhard|MPI-K Hd|7|project manager|joat|-|technical leader|"many|"
+Schwingenheuer|Bernhard|MPI-K Hd|7|project manager|joat|-|technical leader|many
  Kermaidic|Yoann|MPI-K Hd|5+1|postdoc|?|-|-|-
 Abt|Iris|MPI M|7|Senior Staff|detectors, integration|-|-|-
 Majorovits|Bela|MPI M|7|Senior Staff|detectors,PSA|-|-|-
-Schulz|Oliver|MPI M|7+1|Senior Staff|electronics, DAQ, software|-|-|"2019.02 LLouise |"
+Schulz|Oliver|MPI M|7+1|Senior Staff|electronics, DAQ, software|-|-|2019.02 LLouise 
 Liu|Xiang|MPI M|7|Senior Staff|detectors,PSS,PSA|-|-|-
-Zsigmond|Anna|MPI M|1+1|Postdoc|PSS,PSA,software|-|search for permanent position|"2019.09 TAUP|"
+Zsigmond|Anna|MPI M|1+1|Postdoc|PSS,PSA,software|-|search for permanent position|2019.09 TAUP
 Hauertmann|Lukas|MPI M|5|PhD Student|detectors,PSS,PSA|-|-|-
 Schulz|Martin|MPI M|5|PhD Student|detectors, PSS,PSA|-|-|-
 Fischer|Felix|MPI M|5|PhD Student|PEN|-|-|-
@@ -74,18 +74,18 @@ Wiesinger|Christoph|Munich TU|1|PhD student, final year|Analysis, Lar, Cosmogeni
 Bossio|Elisabetta|Munich TU|6|PhD student, 1st year starting|Analysis, simulations etc.|-|-|-
 Comellato|Tommaso|Munich TU|5|PhD student, 2nd year|Ge detectors|-|-|-
 Krause|Patrick|Munich TU|6|PhD student, 1st year starting|Lar detection system|-|-|-
-Schönert|Stefan|Munich TU|7+3|Professor|all and nothing ;) |-|-|"various overviews / reviews|"
+Schönert|Stefan|Munich TU|7+3|Professor|all and nothing ;) |-|-|various overviews / reviews
 Schwarz|Mario|Munich TU|6|PhD student, 1st year|Lar |-|-|-
 Papp|Laszlo|Munich TU|9|Engineer; |Lar system, FE |-|only technical talks; do not assign for general conferences|-
-Willers|Michael|Munich TU/LBNL|1+1|senior postdoc|FE electronics|-|search for permanent position|"2019.03 Vienna|"
+Willers|Michael|Munich TU/LBNL|1+1|senior postdoc|FE electronics|-|search for permanent position|2019.03 Vienna
 McFadden|Neils|New Mexico, U.|1|PhD Student|R&D, Sim. Light yield Lar|-|Last year of phd|-
 Fields|Doug|New Mexico, U.|7|Professor|R&D, Sim. Light yield Lar|-|-|-
 Gold|Michael|New Mexico, U.|7|Professor|R&D, Sim. Light yield Lar|-|-|-
 Loomba|Dinesh|New Mexico, U.|7|Professor|R&D, Sim. Light yield Lar|-|-|-
 Green|Matthew|N.Carolina SU|1|Professor|Simulations/BKNDs|-|Tenure Application|-
 Blalock|Ethan|N.Carolina SU|6|Graduate Student|Simulations/BKNDs|Coursework|Inexperienced|-
-Radford|David|ORNL|7+1|acting division director/corporate fellow|Ge detectors|-|-|"June 2017 Shanghai|"
-Yu|Chang-Hong|ORNL|7+2|senior scientist|enriched Ge|-|-|"MJD+L: Beijing 6/17 Shanghai 9/17|"
+Radford|David|ORNL|7+1|acting division director/corporate fellow|Ge detectors|-|-|June 2017 Shanghai
+Yu|Chang-Hong|ORNL|7+2|senior scientist|enriched Ge|-|-|MJD+L: Beijing 6/17 Shanghai 9/17
 Galindo-Uribarri|Alfredo|ORNL|7|senior scientist|generalist|-|-|-
 Varner|Robert|ORNL|7|senior scientist|data analysis, DAQ|-|-|-
 Brugnera|Ricardo|Padova U. & INFN|7|Professor|joat|-|-|-
@@ -95,15 +95,15 @@ Martin|Ryan|Queen's U.|1|Associate Professor|-| hard time traveling|tenure upcom
 Liu|Shukui|Sichuan U.|7|Associate Professor|DAQ & software|Prefer China meetings|-|-
 Lin|Shinted|Sichuan U.|7|Associate Professor|Analysis, simulation, low radioactivity technology|Prefer Asian meetings|IRep'|-
 Avignone|Frank |S.Carolina U.|7|Professor|detectors, enrichm.,analysis|-|-|-
-Guiseppe|Vincente|S.Carolina U.|7+2|Assistant Professor|detectors, analysis, backgr.|-|-|"2017.08 / SNOLAB Future Planning Workshop; 2017.10 APS Division of Nuclear Physics Meeting (Ge-76 Program talk)|"
+Guiseppe|Vincente|S.Carolina U.|7+2|Assistant Professor|detectors, analysis, backgr.|-|-|2017.08 / SNOLAB Future Planning Workshop; 2017.10 APS Division of Nuclear Physics Meeting (Ge-76 Program talk)
 Tedeschi|David|S.Carolina U.|7|Professor|Analysis, Muons, Detectors|-|-|-
 Christofferson|Cabot-Ann|S.Dakota SMT|7|Research Scientist|ultra pure materials and handling techniques (Cu, Ge, plastics)|-|-|-
 Mei|Dongming|S.Dakota U.|7|Professor|crystal growth|-|-|-
 Liu|Jing|S. Dakota U. of|7|Assistant Professor|Detector & software|cannot travel to countries other than US and China easily|-|-
-Xu|Wenqin|S. Dakota U. of|1+1|Assistant Professor|Analysis|Prefer US meetings|Tenure consideration|"2018.04/APS 2018 - Contributed|"
+Xu|Wenqin|S. Dakota U. of|1+1|Assistant Professor|Analysis|Prefer US meetings|Tenure consideration|2018.04/APS 2018 - Contributed
 Li|Jianchen|S. Dakota U. of|5|graduate student|MC & software|cannot travel to countries other than US and China easily|-|-
 Kooi|Kyler|S. Dakota U. of|9|undergraduate student|Detector|-|-|-
-Barton|Clay|S. Dakota U. of|5+1|graduate student|Analysis|-|-|"DNP2018 contributed|"
+Barton|Clay|S. Dakota U. of|5+1|graduate student|Analysis|-|-|DNP2018 contributed
 Lopez|Jose|S. Dakota U. of|1|postdoc|Analysis|-|job hunting|-
 Li|Jianchen|S. Dakota U. of|2|graduate student|MC & software|cannot travel to countries other than US and China easily|-|-
 Kooi|Kyler|S. Dakota U. of|9|undergraduate student|Detector|-|-|-
@@ -114,7 +114,7 @@ Efremenko|Yuri|Tennessee U.|6|Professor|M&A|-|Grant renewal|-
 Jochum|Josef|Tuebingen U.|7|Professor|-|-|-|-
 Schuetz|Ann Katrin|Tuebingen U.|5|Post Doc|background model|-|-|-
 Zschocke|Andreas|Tuebingen U.|5|PhD Student - 2nd year|detector, simulation|none |-|-
-Yue|Qian|Tsinghua U.|7+1|Professor|system|-|-|"2018.10/Shanghai WS|"
+Yue|Qian|Tsinghua U.|7+1|Professor|system|-|-|2018.10/Shanghai WS
 Waters|David|UCL|7|Professor|-|-|-|-
 Saakyan|Ruben|UCL|7|Professor|-|-|-|-
 Busch|Matthew|Duke/TUNL|8|Research Engineer|Assay, materials, cables/connectors|Would not give Science talks|-|-
@@ -130,16 +130,16 @@ Meijer|Sam|UNC/TUNL|5|PhD Student|MCMC analysis, electronics, detectors|-|gradua
 Othman|Joule|UNC/TUNL|5|PhD Student|LE analysis, cables/connectors|-|-|-
 Rager|Jamin|UNC/TUNL|5|PhD Student|LE analysis, baryonic DM|-|graduating soon (next 3-5 months), mainly MJ|-
 Reine|Anna|UNC/TUNL|5|PhD Student|Detectors, analysis, simulations|-|-|-
-Wilkerson|John|UNC/TUNL/ORNL|7|Professor|Overview, detectors, analysis|-|-|"05.2017 MEDEX, 07.2017 TAUP|"
+Wilkerson|John|UNC/TUNL/ORNL|7|Professor|Overview, detectors, analysis|-|-|05.2017 MEDEX, 07.2017 TAUP
 Kidd|Mary|TTU|7|Associate to TUNL|neutron induced bakgrounds|-|-|-
-Detwiler|Jason|Washington, U. of|7+3|Professor|Simulations / Analysis, Stats, Backgrounds|-|-|"sev.inv.talks tog.w.MJD|"
-Pettus|Walter|Washington, U. of|1+2|Postdoc|PPC Mult-site discrimination (MJD AvsE parameter)|-|Looking for faculty / research positions in 2018-2019|" PNNL 3/18 LBNL DBD 6/18|"
+Detwiler|Jason|Washington, U. of|7+3|Professor|Simulations / Analysis, Stats, Backgrounds|-|-|sev.inv.talks tog.w.MJD
+Pettus|Walter|Washington, U. of|1+2|Postdoc|PPC Mult-site discrimination (MJD AvsE parameter)|-|Looking for faculty / research positions in 2018-2019| PNNL 3/18 LBNL DBD 6/18
 Guinn|Ian|Washington, U. of|1|Grad student|BB decay to exited states, coincidence analysis, energy linearity and resolution, HMC minimization, event building|-|Looking for postdoc positions|-
-Buuck|Micah|Washington, U. of|1+1|Grad student|BG analysis, BG modeling, detector response simulation, computing|-|Looking for postdoc positions|"NNN18 2018.11 Next generation Detectors Vancouver|"
+Buuck|Micah|Washington, U. of|1+1|Grad student|BG analysis, BG modeling, detector response simulation, computing|-|Looking for postdoc positions|NNN18 2018.11 Next generation Detectors Vancouver
 Hostiuc|Alex|Washington, U. of|5|Grad student|HPGe readout, electronic noise modeling|-|-|-
 Ruof|Nick|Washington, U. of|5|Grad student|SiPMs / LAr readout, enivironmental monitoring|-|-|-
 Wiseman|Clint|Washington, U. of|5|Postdoc|detectors, alpha scans|-|-|-
-Gruzka|Julieta|MIT|5+1|WE|Detectors, Lar simulation|-|-|"2019.02.Sendai|"
+Gruzka|Julieta|MIT|5+1|WE|Detectors, Lar simulation|-|-|2019.02.Sendai
 Baudis|Laura| Zuerich U.|7|Professor|Calibration|-|-|-
 Hiller|Roman| Zuerich U.|1|Postdoc|Calibration|-|Fellowship application—|-
 Minghazeva|Rizalina| Zuerich U.|5|PhD student|Calibration|-|-|-
